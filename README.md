@@ -6,6 +6,7 @@ Projects idea was to create a ventilation system to control the pressure and air
 The ventilation fan is connected to a ABB frequency converter and the converter is controlled using Modbud protocol
 
 The system has two operating modes:
+
 Automatic; you can set the pressure level in the ventilation duct to  0 - 120 pa
 Controller measures pressure level and keeps the level at requied setting by adjusting the fan speed
 If required level can’t be reached within a reasonable time user is notified on the UI
