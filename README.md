@@ -3,7 +3,7 @@ Ventilation system with an automatic and manual mode using LPC 1549
 
 Projects idea was to create a ventilation system to control the pressure and airflow inside a pipe
 
-The ventilation fan is connected to a ABB frequency converter and the converter is controlled using Modbud protocol
+The ventilation fan is connected to a ABB frequency converter and the converter is controlled using Modbus protocol
 
 The system has two operating modes:
 
